@@ -1,0 +1,237 @@
+table
+{
+	
+	border-collapse: collapse;
+	width: 100%;
+}
+P
+{
+	font-size: 13pt;
+	line-height: 15pt;
+} 
+td, th 
+{
+	border: 1px solid #dddddd;
+	text-align: center;
+	padding: 5px;
+
+}
+body 
+{
+	background-color: White;
+	font-family: verdana;
+}
+.parallax {
+    background-image: url("nbaLogoParallax.jpg");
+    min-height: 700px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#indexpage_main_section
+{
+	color: red;
+}
+#indexpage_subsection1
+{
+	color:red;
+}
+#indexpage_subsection2
+{
+	color:red;
+}
+#indexpage_paragraph1
+{
+	color:red;
+}
+#indexpage_paragraph2
+{
+	color:red
+}
+#indexpage_paragraph3
+{
+	color:red;
+}
+#powerRankingsIndexpage
+{
+	color:red;
+}
+#powerRankingsExplanation
+{
+	color:red;
+}
+#nbaPowerRankingsList
+{
+	color:red;
+	
+}
+#aboutTheAuthor
+{
+	color:blue;
+}
+#infoAboutMe
+{
+	color:blue;
+}
+#picOfArion
+{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	height:500px;
+	width:600px;
+
+}
+#facts_records_list
+{
+	color:blue;
+}
+#facts_and_records_list_intro
+{
+	color:blue;
+}
+
+#facts_and_records_title
+{
+	color:blue;
+	text-align:center;
+}
+#navbar 
+{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+
+#navbar a
+{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+navbar:hover
+{
+    background-color: #111;
+}
+#mainTitle
+{
+	height:100px;
+	text-align:center;
+	font-size:20pt;
+}
+#teams_list
+{
+	float: none;
+}
+#champ_ring
+{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	height:300px;
+	width:400px;
+}
+#nba_teams
+{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	height:300px;
+	width:400px;
+}
+
+#nba_awards
+{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	height:300px;
+	width:400px;
+}
+#nba_playoffs_ad
+{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	height:400px;
+	width:750px;
+}
+#teamsList
+{
+	text-align:center;
+	display:inline;
+}
+#nbaFunFactsImage
+{
+	display:block;
+	margin-left:auto;
+	margin-right:auto;
+	height:500px;
+	width:400px;
+}
+#glossaryMainHeader
+{
+	text-align:center;
+}
+#imageFreeThrowLine
+{
+	display:block;
+	height:200px;
+	width:200px;
+}
+#imageBillRussell
+{
+	display:block;
+	height:200px;
+	width:200px;
+}
+#imageFieldGoal
+{
+	display:block;
+	height:200px;
+	width:200px;
+}
+#imageLarryObrienTrophy
+{
+	display:block;
+	height:200px;
+	width:200px;
+}
+#imageSixthManAward
+{
+	display:block;
+	height:200px;
+	width:200px;
+}
+#imageThreePointFieldGoal
+{
+	display:block;
+	height:200px;
+	width:200px;
+}
+#imageAssist
+{
+	display:block;
+	height:200px;
+	width:200px;
+}
+#imageShotClock
+{
+	display:block;
+	height:200px;
+	width:200px;
+}
+#imageRebound
+{
+	display:block;
+	height:200px;
+	width:200px;
+}
