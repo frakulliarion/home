@@ -22,12 +22,12 @@ body
 	font-family: verdana;
 }
 .parallax {
-    background-image: url("nbaLogoParallax.jpg");
-    min-height: 700px;
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
+	background-image: url("nbaLogoParallax.jpg");
+ 	min-height: 700px;
+ 	background-attachment: fixed;
+ 	background-position: center;
+ 	background-repeat: no-repeat;
+ 	background-size: cover;
 }
 
 #indexpage_main_section
@@ -86,24 +86,24 @@ body
 }
 #navbar 
 {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #333;
+ 	list-style-type: none;
+ 	margin: 0;
+ 	padding: 0;
+ 	overflow: hidden;
+ 	background-color: #333;
 }
 #navbar a
 {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
+ 	display: block;
+ 	color: white;
+ 	text-align: center;
+ 	padding: 14px 16px;
+ 	text-decoration: none;
 }
 
 navbar:hover
 {
-    background-color: #111;
+ 	background-color: #111;
 }
 #mainTitle
 {
