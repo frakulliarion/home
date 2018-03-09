@@ -20,6 +20,7 @@ body
 {
 	background-color: AliceBlue;
 	font-family: verdana;
+	text-align:justify;
 }
 .parallax {
 	background-image: url("nbaLogoParallax.jpg");
